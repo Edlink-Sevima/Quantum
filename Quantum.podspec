@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Quantum'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'Quantum Design System by Sevima.'
 
 
@@ -28,7 +28,10 @@ TODO: Add long description of the pod here.
   s.source_files = 'Quantum/*.swift'
   
   s.resource_bundles = {
-      'Quantum' => ['Quantum/Assets/**/*']
+      'Quantum' => [
+        'Quantum/Assets/Icon.xcassets',
+        'Quantum/Assets/Font/*.ttf'
+      ]
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
