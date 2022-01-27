@@ -5,11 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/Quantum.svg?style=flat)](https://cocoapods.org/pods/Quantum)
 [![Platform](https://img.shields.io/cocoapods/p/Quantum.svg?style=flat)](https://cocoapods.org/pods/Quantum)
 
-## Example
+## Acknowledgement
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
+The Icon pack used and under licensed by [Iconsax of Vuesax Framework](https://iconsax.io/)
 
 ## Installation
 
@@ -19,10 +17,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'Quantum'
 ```
-
-## Author
-
-mauuulana, maul.ardiansyahh@gmail.com
 
 ## License
 
