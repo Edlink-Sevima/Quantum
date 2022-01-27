@@ -1,0 +1,6 @@
+framework module Pods_Quantum_Tests {
+  umbrella header "Pods-Quantum_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

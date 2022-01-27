@@ -1,0 +1,6 @@
+framework module Quantum {
+  umbrella header "Quantum-umbrella.h"
+
+  export *
+  module * { export * }
+}
