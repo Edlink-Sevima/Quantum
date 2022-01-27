@@ -1,6 +1,5 @@
 # Quantum
 
-[![CI Status](https://img.shields.io/travis/mauuulana/Quantum.svg?style=flat)](https://travis-ci.org/mauuulana/Quantum)
 [![Version](https://img.shields.io/cocoapods/v/Quantum.svg?style=flat)](https://cocoapods.org/pods/Quantum)
 [![License](https://img.shields.io/cocoapods/l/Quantum.svg?style=flat)](https://cocoapods.org/pods/Quantum)
 [![Platform](https://img.shields.io/cocoapods/p/Quantum.svg?style=flat)](https://cocoapods.org/pods/Quantum)
